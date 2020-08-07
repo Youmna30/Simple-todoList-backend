@@ -1,4 +1,3 @@
-# Simple-todoList-backend
 #Build the project
 
 1- clone the project
