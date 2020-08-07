@@ -1,4 +1,4 @@
-**Build the project
+**Build the project**
 
 1- clone the project
 2- cd to the project folder
